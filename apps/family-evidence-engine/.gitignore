@@ -1,0 +1,6 @@
+.env
+data/targets.private.json
+output/*
+!output/.gitkeep
+*.log
+.DS_Store

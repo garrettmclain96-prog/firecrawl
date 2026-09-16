@@ -1,0 +1,14 @@
+{
+  "project": "PRIVATE living-family proof chain",
+  "targets": [
+    {
+      "id": "person-private-001",
+      "canonicalName": "REPLACE LOCALLY",
+      "aliases": [],
+      "places": [],
+      "researchQuestions": ["Document parent-child link using primary records."],
+      "themes": ["birth", "marriage", "obituary", "probate"],
+      "tags": ["private"]
+    }
+  ]
+}

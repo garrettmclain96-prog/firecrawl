@@ -1,0 +1,14 @@
+{
+  "name": "family-evidence-engine",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Evidence-first genealogy, probate, land and mineral research engine powered by Firecrawl.",
+  "scripts": {
+    "research": "node src/cli.mjs research",
+    "report": "node src/cli.mjs report",
+    "queries": "node src/cli.mjs queries",
+    "test": "node --test"
+  },
+  "engines": {"node": ">=20"}
+}

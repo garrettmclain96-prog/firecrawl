@@ -1,0 +1,33 @@
+{
+  "project": "McClung historical proof campaign",
+  "targets": [
+    {
+      "id": "mcclung-nathaniel-m",
+      "canonicalName": "Nathaniel M. McClung",
+      "aliases": ["Nathaniel McClung", "N. M. McClung", "Nathaniel M McClung"],
+      "life": {"death": "1915-05-15"},
+      "places": ["Limestone County, Alabama"],
+      "researchQuestions": [
+        "Locate probate or estate packet and identify all named heirs or children.",
+        "Locate obituary and probate notices near May 1915.",
+        "Identify land, deed, tax, partition or estate-sale references tied to this person."
+      ],
+      "themes": ["probate", "estate", "heirs", "obituary", "administrator", "deed", "land", "partition", "tax sale"],
+      "tags": ["maternal", "mcclung", "probate", "land"]
+    },
+    {
+      "id": "mcclung-joseph-sidney",
+      "canonicalName": "Joseph Sidney McClung",
+      "aliases": ["Joseph Sydney McClung", "Joseph S. McClung", "J. S. McClung", "Sidney McClung", "Sydney McClung"],
+      "life": {"death": "1932-12-23"},
+      "places": ["Limestone County, Alabama"],
+      "researchQuestions": [
+        "Locate probate or estate packet and identify heirs, children, administrator and property.",
+        "Locate obituary and legal notices near December 1932 and early 1933.",
+        "Trace land descriptions forward from the estate rather than relying only on surname searches."
+      ],
+      "themes": ["probate", "estate", "heirs", "obituary", "administrator", "deed", "land", "partition", "mineral"],
+      "tags": ["maternal", "mcclung", "probate", "land"]
+    }
+  ]
+}
